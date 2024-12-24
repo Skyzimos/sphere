@@ -120,7 +120,7 @@ function setExpression(type) {
 
         case 'blink':
             eyebrows.forEach((eyebrow) => {
-                eyebrow.style.top = '19%';
+                eyebrow.style.top = '17%';
             });
             leftEyebrow.style.transform = 'rotate(-5deg)';
             rightEyebrow.style.transform = 'rotate(5deg)';
