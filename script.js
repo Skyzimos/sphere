@@ -1,3 +1,5 @@
+// Where all the magic happens. Animations are fully handled here.
+
 const sphere = document.getElementById('sphere');
 const eyes = document.querySelectorAll('.eye');
 const leftEye = document.querySelector('.left-eye');
